@@ -1,0 +1,21 @@
+Motor DC con reductor 1:48**
+
+El motor de corriente continua con reductor es un motor utilizado principalmente en pequeños robots, vehículos y proyectos de electrónica.
+ Funciona con una alimentación de 3 a 6 V DC y posee una relación de reducción de 1:48, lo que significa que el motor interno realiza aproximadamente 48 vueltas por cada vuelta del eje de salida.
+
+El sistema está compuesto por un motor DC de escobillas y una caja reductora con varios engranajes plásticos.
+ El motor hace girar un pequeño piñón que transmite el movimiento a los diferentes engranajes.
+  Estos reducen la velocidad y aumentan el torque, permitiendo mover ruedas y pequeñas carga
+Sus principales características son:
+Voltaje: 3–6 V DC.
+Relación de reducción: 1:48.
+Velocidad a 3 V: 125 RPM.
+Velocidad a 5 V: 200 RPM.
+Velocidad a 6 V: 230 RPM.
+Consumo: aproximadamente 60–120 mA en funcionamiento normal.
+Torque: aproximadamente 0,8 kg·cm (0,078 N·m).
+Corriente de bloqueo: puede alcanzar aproximadamente 1 A.
+La carcasa amarilla protege los engranajes y mantiene sus ejes alineados.
+ El eje de salida permite conectar directamente una rueda. 
+Debido a su pequeño tamaño, bajo costo y facilidad de control.
+Este motor es muy utilizado en bots seguidores de linea, robots moviles y proyectos con Arduino.
